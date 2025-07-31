@@ -9,7 +9,7 @@ showcasing the machine learning capabilities.
 Usage:
     python demo.py
 
-Author: Satyam Pandey
+Author: Souvik Nandi
 """
 
 import os
