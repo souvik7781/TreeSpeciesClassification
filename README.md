@@ -401,7 +401,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact & Support
 
-**Author**: Souvik Nandi 
+**Author**: Souvik Nandi  
 **GitHub**: [@souvik7781](https://github.com/souvik7781)  
 **Repository**: [TREE_SPECIES_CLASSIFICATION](https://github.com/souvik7781/TreeSpeciesClassification)
 
